@@ -4,7 +4,7 @@ SCHC is a desktop application that provides secure communication between a clien
 
 ## Built With
 
-* [NET Framework](https://dotnet.microsoft.com/) - NET framwork has been used to develop the system.
+* [NET Framework](https://dotnet.microsoft.com/) - NET framework has been used to develop the system.
 
 ## Authors
 
