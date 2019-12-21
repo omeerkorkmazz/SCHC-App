@@ -8,7 +8,7 @@ SCHC is a desktop application that provides secure communication between a clien
 
 ## Authors
 
-* **[Omer KORKMAZ](https://www.linkedin.com/in/omerkorkmazz/)** - *Owner* -
+* **[Omer KORKMAZ](https://www.linkedin.com/in/omerkorkmazz/)** - *Owner* 
 
 
 ## License
